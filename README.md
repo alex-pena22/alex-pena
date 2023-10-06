@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alexis Moreno Pena
+- 👋 Hi, I’m Alexis Moreno
 - 👀 I’m interested in expanding my skills and knowledge as a Software Developer ...
-- 🌱 I’m currentlly working on python and bulidng some games.
-- 💞️ I’m looking to collaborate with anyone that needs and extra hand learning or coding for projects. I enjoy programming and the limitless learning and information that you can use to create just about anything you can think about. Programming is by far the best skill or superpower anyone can attain and achive! 😌✌🏻...
+- 🌱 I’m currently working on Python and building some games. Also building WEB pages.
+- 💞️ I’m looking to collaborate with anyone who needs extra hand-learning or coding for projects. I enjoy programming and the limitless learning and information that you can use to create just about anything you can think about. Programming is by far the best skill or superpower anyone can attain and acquire! 😌✌🏻
 - 📫 How to reach me - ampena22@gmail.com
 
 <!---
